@@ -62,8 +62,8 @@ const Projects = () => {
       id: 6,
       title: 'Educational Institution',
       category: 'industrial',
-      image: 'https://images.pexels.com/photos/3862132/pexels-photo-3862132.jpeg?auto=compress&cs=tinysrgb&w=800',
-      location: 'Port Harcourt, Rivers',
+      image: '/Cameron Road 2.jpg',
+      location: 'Lagos State',
       year: '2021',
       description: 'Modern university campus with lecture halls, laboratories, and student facilities.'
     }
