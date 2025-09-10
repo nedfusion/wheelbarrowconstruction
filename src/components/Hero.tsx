@@ -71,7 +71,7 @@ const Hero = () => {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 lg:gap-12">
             <div className="text-center sm:text-left group">
               <div className="flex items-center justify-center sm:justify-start space-x-4 mb-3">
-                <div className="bg-red-600/10 backdrop-blur-sm p-3 rounded-lg group-hover:bg-red-600/20 transition-colors duration-300">
+                <div className="bg-white/10 backdrop-blur-sm p-3 rounded-lg group-hover:bg-white/20 transition-colors duration-300">
                   <Award className="h-8 w-8 text-red-500" />
                 </div>
                 <span className="text-4xl lg:text-5xl font-serif font-bold">100+</span>
@@ -81,7 +81,7 @@ const Hero = () => {
             
             <div className="text-center sm:text-left group">
               <div className="flex items-center justify-center sm:justify-start space-x-4 mb-3">
-                <div className="bg-red-600/10 backdrop-blur-sm p-3 rounded-lg group-hover:bg-red-600/20 transition-colors duration-300">
+                <div className="bg-white/10 backdrop-blur-sm p-3 rounded-lg group-hover:bg-white/20 transition-colors duration-300">
                   <Users className="h-8 w-8 text-red-500" />
                 </div>
                 <span className="text-4xl lg:text-5xl font-serif font-bold">200+</span>
@@ -91,7 +91,7 @@ const Hero = () => {
             
             <div className="text-center sm:text-left group">
               <div className="flex items-center justify-center sm:justify-start space-x-4 mb-3">
-                <div className="bg-red-600/10 backdrop-blur-sm p-3 rounded-lg group-hover:bg-red-600/20 transition-colors duration-300">
+                <div className="bg-white/10 backdrop-blur-sm p-3 rounded-lg group-hover:bg-white/20 transition-colors duration-300">
                   <Clock className="h-8 w-8 text-red-500" />
                 </div>
                 <span className="text-4xl lg:text-5xl font-serif font-bold">100%</span>
