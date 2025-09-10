@@ -54,7 +54,7 @@ const Projects = () => {
       title: 'Luxury Apartment Project',
       category: 'residential',
       image: 'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
-      location: 'Kano State',
+      location: 'Victoria Island, Lagos State',
       year: '2022',
       description: '500-unit luxury apartment development with premium amenities and green spaces.'
     },
