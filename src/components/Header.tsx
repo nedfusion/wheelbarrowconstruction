@@ -39,9 +39,6 @@ const Header = () => {
               alt="Wheelbarrow Construction Limited"
               className="h-12 w-auto"
             />
-          </div>
-
-          {/* Desktop Navigation */}
           <nav className="hidden lg:flex space-x-10">
             {[
               { name: 'Home', id: 'hero' },
