@@ -37,7 +37,7 @@ const Header = () => {
             <img
               src="/All caps Transparent.png"
               alt="Wheelbarrow Construction Limited"
-              className="h-16 w-auto"
+             className="h-24 w-auto"
             />
           </div>
           <nav className="hidden lg:flex space-x-10">
