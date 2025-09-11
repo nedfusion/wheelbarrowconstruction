@@ -13,9 +13,9 @@ const Hero = () => {
     <section id="hero" className="relative min-h-screen flex items-center overflow-hidden">
       {/* Background Image with Overlay */}
       <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat transform scale-105 animate-pulse"
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-30"
         style={{
-          backgroundColor: 'white'
+          backgroundImage: 'url(/Cameron Road 1.jpg)'
         }}
       >
       </div>
