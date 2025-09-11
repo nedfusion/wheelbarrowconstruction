@@ -34,18 +34,11 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <div>
-              <h1 className={`text-2xl font-serif font-bold transition-colors duration-300 ${
-                isScrolled ? 'text-wine-900' : 'text-white'
-              }`}>
-                Wheelbarrow
-              </h1>
-              <p className={`text-sm font-medium transition-colors duration-300 ${
-                isScrolled ? 'text-wine-600' : 'text-white/80'
-              }`}>
-                Construction Limited
-              </p>
-            </div>
+            <img
+              src="/All caps Transparent.png"
+              alt="Wheelbarrow Construction Limited"
+              className="h-12 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}
