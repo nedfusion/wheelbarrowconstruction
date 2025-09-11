@@ -19,12 +19,6 @@ const Hero = () => {
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-br from-wine-900/95 via-wine-800/90 to-wine-700/85"></div>
-        <div 
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-30"
-          style={{
-            backgroundImage: 'url(/Cameron Road 1.jpg)'
-          }}
-        ></div>
       </div>
 
       {/* Decorative Elements */}
