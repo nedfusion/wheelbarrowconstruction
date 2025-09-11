@@ -34,9 +34,9 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <div className="bg-wine-800 p-2.5 rounded-lg shadow-lg">
-              <Building2 className="h-7 w-7 text-white" />
-            </div>
+            <Building2 className={`h-7 w-7 transition-colors duration-300 ${
+              isScrolled ? 'text-wine-800' : 'text-white'
+            }`} />
             <div>
               <h1 className={`text-2xl font-serif font-bold transition-colors duration-300 ${
                 isScrolled ? 'text-wine-900' : 'text-white'
