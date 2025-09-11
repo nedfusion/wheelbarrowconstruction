@@ -15,10 +15,10 @@ const Hero = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/Cameron Road 1.jpg)'
+          backgroundImage: 'url("/Cameron Road 1.jpg")'
         }}
       >
-        <div className="absolute inset-0 bg-white/60"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-white/70 via-white/50 to-white/70"></div>
       </div>
 
       {/* Decorative Elements */}
