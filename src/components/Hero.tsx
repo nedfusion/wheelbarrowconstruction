@@ -18,7 +18,7 @@ const Hero = () => {
           backgroundImage: 'url(/Cameron Road 1.jpg)'
         }}
       >
-        <div className="absolute inset-0 bg-wine-900/60"></div>
+        <div className="absolute inset-0 bg-white/60"></div>
       </div>
 
       {/* Decorative Elements */}
