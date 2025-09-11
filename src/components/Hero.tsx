@@ -18,7 +18,6 @@ const Hero = () => {
           backgroundColor: 'white'
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-br from-wine-900/95 via-wine-800/90 to-wine-700/85"></div>
       </div>
 
       {/* Decorative Elements */}
