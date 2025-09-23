@@ -16,6 +16,7 @@ A modern, responsive website for Wheelbarrow Construction Limited - a Nigerian-b
 - **Frontend**: React 18 with TypeScript
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
+- **Routing**: React Router DOM
 - **Build Tool**: Vite
 - **Deployment**: Netlify ready
 
@@ -35,6 +36,50 @@ A modern, responsive website for Wheelbarrow Construction Limited - a Nigerian-b
    ```bash
    npm run build
    ```
+
+## Admin Dashboard
+
+The website includes a comprehensive admin dashboard for content management:
+
+### Accessing the Admin Dashboard
+
+1. Navigate to `/admin` in your browser
+2. Use the demo credentials:
+   - **Username**: `admin`
+   - **Password**: `wheelbarrow2024`
+
+### Admin Features
+
+- **Gallery Management**: Upload, edit, and delete gallery images
+- **Project Management**: Add, edit, and remove portfolio projects
+- **Content Organization**: Categorize content by type (Residential, Commercial, Industrial, Educational)
+- **Analytics Dashboard**: View website statistics and engagement metrics
+- **User Management**: Control admin access and permissions
+
+### Production Setup
+
+For production deployment, you'll need to:
+
+1. **Set up proper authentication**:
+   - Replace the demo authentication with a secure backend API
+   - Implement JWT tokens or session-based authentication
+   - Add password hashing and secure storage
+
+2. **Configure file upload**:
+   - Set up cloud storage (AWS S3, Cloudinary, etc.)
+   - Implement proper file validation and security
+   - Add image optimization and resizing
+
+3. **Database integration**:
+   - Connect to a database (PostgreSQL, MongoDB, etc.)
+   - Implement proper data persistence
+   - Add backup and recovery procedures
+
+4. **Security measures**:
+   - Add CSRF protection
+   - Implement rate limiting
+   - Set up proper CORS policies
+   - Add input validation and sanitization
 
 ## Deployment to Netlify
 
