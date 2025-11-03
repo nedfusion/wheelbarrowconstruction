@@ -20,7 +20,7 @@ const Hero = () => {
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src="/Wheelbarrow 50 storey .mp4" type="video/mp4" />
+          <source src="./Wheelbarrow 50 storey .mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-r from-white/70 via-white/50 to-white/70"></div>
       </div>

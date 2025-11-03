@@ -7,115 +7,115 @@ const Gallery = () => {
 
   const images = [
     {
-      src: '/Air Peace Hotel .jpg',
+      src: './Air Peace Hotel .jpg',
       title: 'Air Peace Hotel',
       category: 'Commercial',
       description: 'Modern hotel design with contemporary architecture'
     },
     {
-      src: '/Air Peace Office 1.png',
+      src: './Air Peace Office 1.png',
       title: 'Air Peace Office Complex',
       category: 'Commercial',
       description: 'Corporate office building with modern facilities'
     },
     {
-      src: '/Air Peace Office 2.jpg',
+      src: './Air Peace Office 2.jpg',
       title: 'Air Peace Office Interior',
       category: 'Commercial',
       description: 'Professional workspace design and layout'
     },
     {
-      src: '/Air Peace Office 3.jpg',
+      src: './Air Peace Office 3.jpg',
       title: 'Air Peace Office Exterior',
       category: 'Commercial',
       description: 'Impressive exterior facade and landscaping'
     },
     {
-      src: '/Cameron Road 1.jpg',
+      src: './Cameron Road 1.jpg',
       title: 'Cameron Road Development',
       category: 'Residential',
       description: 'Premium residential development project'
     },
     {
-      src: '/Cameron Road 2.jpg',
+      src: './Cameron Road 2.jpg',
       title: 'Cameron Road Complex',
       category: 'Educational',
       description: 'Educational facility with modern amenities'
     },
     {
-      src: '/Cameron Road 3.jpg',
+      src: './Cameron Road 3.jpg',
       title: 'Cameron Road Industrial',
       category: 'Industrial',
       description: 'Industrial facility with advanced infrastructure'
     },
     {
-      src: '/Cameron Road 1 copy.jpg',
+      src: './Cameron Road 1 copy.jpg',
       title: 'Cameron Road Alternative View',
       category: 'Residential',
       description: 'Alternative perspective of the development'
     },
     {
-      src: '/Cameron Road Option 2.jpg',
+      src: './Cameron Road Option 2.jpg',
       title: 'Cameron Road Option 2',
       category: 'Residential',
       description: 'Second design option for the development'
     },
     {
-      src: '/EKWERE AZU VILLA 1.jpg',
+      src: './EKWERE AZU VILLA 1.jpg',
       title: 'Ekwere Azu Villa',
       category: 'Residential',
       description: 'Luxury villa with premium finishes'
     },
     {
-      src: '/EKWERE AZU VILLA 2.jpg',
+      src: './EKWERE AZU VILLA 2.jpg',
       title: 'Ekwere Azu Villa Interior',
       category: 'Residential',
       description: 'Elegant interior design and layout'
     },
     {
-      src: '/EKWERE AZU VILLA 4.jpg',
+      src: './EKWERE AZU VILLA 4.jpg',
       title: 'Ekwere Azu Villa Exterior',
       category: 'Residential',
       description: 'Beautiful exterior architecture and landscaping'
     },
     {
-      src: '/EKWERE AZU VILLA  3 (NIGHT).jpg',
+      src: './EKWERE AZU VILLA  3 (NIGHT).jpg',
       title: 'Ekwere Azu Villa Night View',
       category: 'Residential',
       description: 'Stunning night illumination of the villa'
     },
     {
-      src: '/Melrose Residences 1.png',
+      src: './Melrose Residences 1.png',
       title: 'Melrose Residences',
       category: 'Residential',
       description: 'Luxury apartment complex with modern amenities'
     },
     {
-      src: '/Wuta Residences 1.jpg',
+      src: './Wuta Residences 1.jpg',
       title: 'Wuta Residences',
       category: 'Residential',
       description: 'Contemporary residential development'
     },
     {
-      src: '/Wuta Residences 2.jpg',
+      src: './Wuta Residences 2.jpg',
       title: 'Wuta Residences Complex',
       category: 'Residential',
       description: 'Multi-unit residential complex with gardens'
     },
     {
-      src: '/Wuta Residences 3.jpg',
+      src: './Wuta Residences 3.jpg',
       title: 'Wuta Residences Amenities',
       category: 'Residential',
       description: 'Premium amenities and recreational facilities'
     },
     {
-      src: '/XX ABOYADE COLE 1.png',
+      src: './XX ABOYADE COLE 1.png',
       title: 'Aboyade Cole Project',
       category: 'Commercial',
       description: 'Commercial development in prime location'
     },
     {
-      src: '/XX ABOYADE COLE 2.png',
+      src: './XX ABOYADE COLE 2.png',
       title: 'Aboyade Cole Complex',
       category: 'Commercial',
       description: 'Modern commercial complex with retail spaces'

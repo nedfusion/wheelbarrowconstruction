@@ -17,7 +17,7 @@ const Projects = () => {
       id: 1,
       title: 'Modern Residential Estate',
       category: 'residential',
-      image: '/Wuta Residences 2.jpg',
+      image: './Wuta Residences 2.jpg',
       location: 'Lekki, Lagos',
       year: '2024',
       description: '50-unit luxury residential estate with modern amenities and sustainable design features.'
@@ -26,7 +26,7 @@ const Projects = () => {
       id: 2,
       title: 'Corporate Office Complex',
       category: 'commercial',
-      image: '/Air Peace Office 1.png',
+      image: './Air Peace Office 1.png',
       location: 'Victoria Island, Lagos',
       year: '2023',
       description: '15-story office complex with sustainable design and modern workspace solutions.'
@@ -35,7 +35,7 @@ const Projects = () => {
       id: 3,
       title: 'Industrial Manufacturing Hub',
       category: 'industrial',
-      image: '/Cameron Road 3.jpg',
+      image: './Cameron Road 3.jpg',
       location: 'Lagos State',
       year: '2023',
       description: '75,000 sq ft state-of-the-art manufacturing facility with advanced automation systems.'
@@ -44,7 +44,7 @@ const Projects = () => {
       id: 4,
       title: 'Private Housing Complex',
       category: 'commercial',
-      image: '/EKWERE AZU VILLA 4.jpg',
+      image: './EKWERE AZU VILLA 4.jpg',
       location: 'Imo State',
       year: '2022',
       description: 'Multi-purpose complex featuring retail, office spaces, and residential units.'
@@ -53,7 +53,7 @@ const Projects = () => {
       id: 5,
       title: 'Luxury Apartment Project',
       category: 'residential',
-      image: '/Melrose Residences 1.png',
+      image: './Melrose Residences 1.png',
       location: 'Victoria Island, Lagos State',
       year: '2022',
       description: '500-unit luxury apartment development with premium amenities and green spaces.'
@@ -62,7 +62,7 @@ const Projects = () => {
       id: 6,
       title: 'Educational Institution',
       category: 'industrial',
-      image: '/Cameron Road 2.jpg',
+      image: './Cameron Road 2.jpg',
       location: 'Lagos State',
       year: '2021',
       description: 'Modern university campus with lecture halls, laboratories, and student facilities.'

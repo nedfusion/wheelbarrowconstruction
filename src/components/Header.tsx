@@ -35,7 +35,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img
-              src="/All caps Transparent.png"
+              src="./All caps Transparent.png"
               alt="Wheelbarrow Construction Limited"
              className="h-24 w-auto"
             />
