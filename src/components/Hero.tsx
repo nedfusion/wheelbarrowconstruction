@@ -34,12 +34,6 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 text-red-600 pt-24 md:pt-32">
         <div className="max-w-4xl">
-          {/* Description */}
-          <p className="text-xl md:text-2xl mb-12 text-red-600/90 leading-relaxed max-w-3xl font-light">
-            We integrate architectural design, structural engineering, and construction management 
-            into a seamless process that transforms ideas into landmark projects across Nigeria.
-          </p>
-
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 mb-16">
             <button
