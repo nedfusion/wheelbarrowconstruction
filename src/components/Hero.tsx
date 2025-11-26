@@ -34,13 +34,6 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 text-red-600 pt-24 md:pt-32">
         <div className="max-w-4xl">
-          {/* Main Heading */}
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold leading-tight mb-8 text-red-700">
-            Redefining
-            <span className="block text-red-500 italic">Nigeria's Built</span>
-            <span className="block">Environment</span>
-          </h1>
-          
           {/* Description */}
           <p className="text-xl md:text-2xl mb-12 text-red-600/90 leading-relaxed max-w-3xl font-light">
             We integrate architectural design, structural engineering, and construction management 
